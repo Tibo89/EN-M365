@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Settings>
+    <Paths>
+        <SMSFile>ResultsSMS.csv</SMSFile>
+        <PhoneFile>ResultsPhone.Csv</PhoneFile>
+        <EmailFile>ResultsMail.csv</EmailFile>
+        <DeprecatedMethodsFile>ResultsDeprecated.csv</DeprecatedMethodsFile>
+    </Paths>
+</Settings>
